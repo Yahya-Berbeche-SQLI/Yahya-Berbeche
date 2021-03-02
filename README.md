@@ -71,5 +71,5 @@
 
 ---
 
-[gmail]: mailto:yberbeche@gmail.com
+[gmail]: mailto:yberbeche@sqli.com
 [linkedin]: https://www.linkedin.com/in/yahya-berbeche-227a70197/
